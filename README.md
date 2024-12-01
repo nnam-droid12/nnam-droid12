@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on INOP LEARN APP<br>👯 I’m looking to collaborate on working with Flutter and AI/ML<br>🤝 I’m looking for help with generative AI content and resources<br>🌱 I’m currently learning Tensorflow and AI/ML<br>💬 Ask me about Flutter and Android development<br>🤝Pronoun: He/His<br>⚡ Fun fact: Enjoying playing soccer at Leisure
+Ask me about Java, spring boot, spring batch, Devops, AWS and Enterprise system development.
+I’m interested in working on project with impact and scale<br>🌱 I’m AI/ML enthusiast<br>💬  <br>🤝Pronoun: He/His<br>⚡ Fun fact: Enjoying playing soccer at Leisure
 
 
 ## 🌐 Socials:
