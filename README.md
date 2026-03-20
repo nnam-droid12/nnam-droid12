@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ask me about Java, spring boot, spring batch, Devops, AWS and Enterprise system development.
+Ask me about Java, spring boot, spring batch, Devops, GCP, AWS and Enterprise system development.
 I’m interested in working on project with impact and scale<br>🌱 I’m AI/ML enthusiast<br>💬  <br>🤝Pronoun: He/His<br>⚡ Fun fact: Enjoying playing soccer at Leisure
 
 # 💻 Tech Stack:
